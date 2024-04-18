@@ -1,0 +1,5 @@
+set(TARGET picsaveload)
+set(SRC_LIB picsaveload.cpp)
+set(HEADER_LIB picsaveload.h)
+add_library(${TARGET} ${SRC_LIB})
+target_include_directories(${TARGET} PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})

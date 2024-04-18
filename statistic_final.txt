@@ -1,0 +1,12 @@
+Average time for data/1280x720 and 1 threads is 1.23782 s
+Average time for data/1920x1080 and 1 threads is 5.03546 s
+Average time for data/Above and 1 threads is 17.9738 s
+Average time for data/1280x720 and 2 threads is 0.594667 s
+Average time for data/1920x1080 and 2 threads is 2.58246 s
+Average time for data/Above and 2 threads is 9.11015 s
+Average time for data/1280x720 and 4 threads is 0.591394 s
+Average time for data/1920x1080 and 4 threads is 2.5382 s
+Average time for data/Above and 4 threads is 8.98978 s
+Average time for data/1280x720 and 8 threads is 0.625848 s
+Average time for data/1920x1080 and 8 threads is 2.65651 s
+Average time for data/Above and 8 threads is 9.10585 s

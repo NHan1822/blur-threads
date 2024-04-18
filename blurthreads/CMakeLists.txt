@@ -1,0 +1,6 @@
+set(TARGET blurthreads)
+set(SRC_LIB blurthreads.cpp)
+set(HEADER_LIB blurthreads.h)
+add_library(${TARGET} ${SRC_LIB})
+target_include_directories(${TARGET} PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
+target_link_libraries(${TAREGT} picsaveload)
